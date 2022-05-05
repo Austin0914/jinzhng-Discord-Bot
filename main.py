@@ -4,7 +4,7 @@ import asyncio
 from discord.ext import commands
 
 bot=commands.Bot(command_prefix="!")
-TOKEN='OTcxNjUyNjU5MDA0MjExMjAx.YnNoDg.q8IQrrTf7PnC5rX9O4LWcZ3yEnQ'
+TOKEN='_______'
 
 @bot.command()
 async def feature(ctx):
