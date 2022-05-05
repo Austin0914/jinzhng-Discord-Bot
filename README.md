@@ -8,6 +8,9 @@ Try to Use **jiàn zhǒng**!!!!!
 
 就是把你朋友從一個頻道，丟到另一個頻道，丟來丟去，煩死他。
 
+# Invite Link
+[Invite LINK](https://discord.com/api/oauth2/authorize?client_id=971652659004211201&permissions=16795648&scope=bot)
+
 # Features
 ## !feature
 ```
